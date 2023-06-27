@@ -35,7 +35,7 @@
 
 ## 🔖 Page
 
-- Você pode visualizar o resultado final do projeto através [desse link](https://angelicacamp.github.io/digital-clock/).
+- Você pode visualizar o resultado final do projeto através [desse link](https://angelicacamp.github.io/weather-app/).
 
 <br>
 ---
