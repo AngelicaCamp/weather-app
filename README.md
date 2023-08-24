@@ -1,7 +1,7 @@
 <h1 align="center">Weather App</h1>
 
 <p align="center">
-  <a href="#-aplicação">Aplicação</a>   | 
+  <a href="#-aplicação">Aplicação</a>  | 
   <a href="#-tecnologias">Tecnologias</a>   |   
   <a href="#-page">Page</a>   
   </p>
@@ -35,7 +35,7 @@
 
 ## 🔖 Page
 
-- Você pode visualizar o resultado final do projeto através [desse link](https://angelicacamp.github.io/digital-clock/).
+- Você pode visualizar o resultado final do projeto através [desse link](https://angelicacamp.github.io/weather-app/).
 
 <br>
 ---
